@@ -2,6 +2,8 @@
 
 Bu proje, iş süreçlerini takip etmek ve yönetmek için bir İş Takip Sistemi geliştirmek amacıyla oluşturulmuştur. Sistem, kullanıcıların işlerini daha etkili bir şekilde organize etmelerine ve iş akışlarını kontrol etmelerine yardımcı olur.
 
+> 🎓 Bu proje, **Turkcell Genç Yetenek** stajı kapsamında geliştirilmiştir.
+
 ## Özellikler
 
 - **Görev Yönetimi**: Yeni görev ekleme, mevcut görevleri düzenleme ve silme.
